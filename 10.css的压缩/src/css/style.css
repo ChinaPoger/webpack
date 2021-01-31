@@ -1,0 +1,5 @@
+#box{
+  width: 100px;
+  color: red;
+  -webkit-overflow-scrolling:touch;
+}

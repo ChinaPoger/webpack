@@ -1,0 +1,17 @@
+#box{
+  width: 100px;
+  color: red;
+}
+#box2 {
+  width: 200px;
+  height: 200px;
+  background: red;
+  color: salmon;
+}
+
+#box3 {
+  width: 400px;
+  height: 200px;
+  color: black;
+  background-color: aqua; }
+

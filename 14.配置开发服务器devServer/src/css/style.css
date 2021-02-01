@@ -1,0 +1,26 @@
+#box{
+  width: 100px;
+  color: red;
+  -webkit-overflow-scrolling:touch;
+}
+#img1{
+  width:200px;
+  height: 80px;
+  background-image: url('../images/1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#img2{
+  width:200px;
+  height: 80px;
+  background-image: url('../images/1.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#img3{
+  width:200px;
+  height: 80px;
+  background-image: url('../images/1.gif');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
